@@ -16,6 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
+          <p>Practicing AWS web hosting</p>
         </a>
       </header>
     </div>
